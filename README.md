@@ -1,0 +1,1 @@
+We have an array of n numbers, which contains all numbers from 1 to n+1, except one number. Our task is to find which number is missing.
